@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartiwayJobs.Api", "SmartiwayJobs.Api\SmartiwayJobs.Api.csproj", "{905C83CC-3D92-4772-9F92-E0DDF1C8AEB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartiwayJobs.Tests", "SmartiwayJobs.Tests\SmartiwayJobs.Tests.csproj", "{66AD3912-71BA-4E28-94DA-7FBC318341C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{905C83CC-3D92-4772-9F92-E0DDF1C8AEB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905C83CC-3D92-4772-9F92-E0DDF1C8AEB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905C83CC-3D92-4772-9F92-E0DDF1C8AEB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905C83CC-3D92-4772-9F92-E0DDF1C8AEB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66AD3912-71BA-4E28-94DA-7FBC318341C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66AD3912-71BA-4E28-94DA-7FBC318341C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66AD3912-71BA-4E28-94DA-7FBC318341C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66AD3912-71BA-4E28-94DA-7FBC318341C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC44210E-CAD9-4F76-B6C1-9FA77BFBB523}
+	EndGlobalSection
+EndGlobal
